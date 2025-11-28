@@ -1,0 +1,15 @@
+/* Ensure smooth transitions for dark mode */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Override body styles for smooth transitions */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Ensure proper dark mode styling */
+.dark {
+  color-scheme: dark;
+}

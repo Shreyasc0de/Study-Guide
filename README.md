@@ -18,11 +18,18 @@ A comprehensive course creation and learning management platform built with Reac
 - **Multiple Content Types**: Lessons, quizzes, flashcards, and resources
 - **Progress Validation**: Real-time feedback on course completion requirements
 
+
 ### 🤖 AI-Powered Assistance
+
 - **Smart Suggestions**: AI-powered course optimization recommendations
 - **Content Generation**: Automated course structure and content outlines
 - **Best Practices**: Educational guidance based on successful course patterns
 - **Confidence Scoring**: AI suggestions with reliability indicators
+
+#### Screenshots
+![Screenshot 1](p1.png)
+![Screenshot 2](p2.png)
+![Screenshot 3](p3.png)
 
 ### 👥 User Management
 - **Authentication System**: Complete user registration and login
